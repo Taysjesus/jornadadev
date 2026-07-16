@@ -2,7 +2,7 @@
 
 ## A) Calcular a área de um retângulo
 
-
+```text
 Início
 
 Leia Base
