@@ -65,6 +65,6 @@ Durante o desenvolvimento deste projeto foi possível colocar em prática conhec
 
 ---
 
-## Considerações Finais
+## Considerações 
 
 Este projeto contribuiu significativamente para meu aprendizado em ADVPL e no desenvolvimento de soluções utilizando o ERP TOTVS Protheus. Apesar da limitação encontrada durante os testes finais, os objetivos principais do trabalho foram alcançados e o projeto representa uma importante evolução na minha formação.
